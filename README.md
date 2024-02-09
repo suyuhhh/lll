@@ -8,4 +8,4 @@ Today i will talk about the information of the person below
 Let's make a list about her 
 - 
 
-_ a movie 
+- a movie 

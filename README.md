@@ -1,4 +1,4 @@
-ok https://blog.confirmbets.com/wp-content/uploads/2019/07/Messi.jpg
+ok 
 =
 today i will talk about the information of those who are sick
 - 
